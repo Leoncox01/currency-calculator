@@ -1,23 +1,23 @@
-# Currency Calculator
+## Currency Conversion Guide
 
-A manual exchange-rate currency conversion tool.
+This application converts currency values
+using a manually provided exchange rate.
 
-## Features
+### Main Features
 
 - Amount input
-- Custom exchange rate
-- Converted amount
+- Exchange rate input
+- Converted value calculation
+- Input validation
 
-## How to Use
+### How to Use
 
-Enter the amount and exchange rate, then calculate.
+1. Enter the original amount.
+2. Enter the exchange rate.
+3. Calculate the converted amount.
+4. Review the result.
 
-## Technologies
+### Important Note
 
-- HTML
-- CSS
-- JavaScript
-
-## Running Locally
-
-Open `index.html` in a modern web browser.
+Exchange rates should be updated
+before performing a conversion.
