@@ -21,3 +21,12 @@ using a manually provided exchange rate.
 
 Exchange rates should be updated
 before performing a conversion.
+## Manual Testing Checklist
+
+- [ ] Enter an amount and a manually chosen exchange rate.
+- [ ] Verify the result by multiplying the two values.
+- [ ] Reject a missing or nonpositive exchange rate.
+
+### Test Notes
+
+Record the observed result and any reproducible issue after running the tests.
